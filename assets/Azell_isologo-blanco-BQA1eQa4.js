@@ -1,0 +1,1 @@
+import{j as r}from"./index-DPBFeJKv.js";const c=({variant:t="primary",className:s="",children:n,isLoading:o,disabled:a,...e})=>r.jsx("button",{className:`btn btn-${t} ${s}`,disabled:a||o,...e,children:o?"Loading...":n}),i="/assets/Azell_isologo-blanco-BDx1mcov.png";export{c as B,i as L};
